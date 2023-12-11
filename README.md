@@ -6,7 +6,6 @@
   <img src="https://giphy.com/gifs/maudit-maudit-the-aristocats-wolfgang-reitherman-13k96DgIYUlMc" alt="я джифка">
 </div>
 
-https://giphy.com/gifs/maudit-maudit-the-aristocats-wolfgang-reitherman-13k96DgIYUlMc
 
 <h1 align="left">Привет, я Екатерина =)</h1>
 <h3 align="left">Немного machine learner (в основном в сфере NLP) и moneydealer :moneybag: :moneybag: :moneybag:</h3>
