@@ -11,11 +11,11 @@
 
 - :smiley_cat: Большинство моих проектов связаны с NLP (sentiment analysis), или создание игр
 
-- :gem: Быстрее всего со мной можно связаться в **telegram**
+- :gem: Быстрее всего со мной можно связаться в **telegram @ekaterina_malinovaya**
 
 - Ссылка на резюме с описанием проектов: [https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing](https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing)
 
- - Случайный факт:   **Любимый фильм-"Belle et Sébastien",о том какими должны быть любые взаимоотношения, лучики добра**
+ - Случайный факт:   **Любимый фильм - "Belle et Sébastien", о том какими должны быть любые взаимоотношения**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
