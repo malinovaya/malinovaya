@@ -15,7 +15,7 @@
 
 - Ссылка на резюме с описанием проектов: [https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing](https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing)
 
-- :paw_prints: Случайный факт:   **Любимый фильм-"Belle et Sébastien",о том какими должны быть любые взаимоотношения, лучики добра**
+- :ocean: Случайный факт:   **Любимый фильм-"Belle et Sébastien",о том какими должны быть любые взаимоотношения, лучики добра**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
