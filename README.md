@@ -2,8 +2,12 @@
   <img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif" alt="я джифка">
 </div>
 
-<h1 align="center">Привет, я Екатерина =)</h1>
-<h3 align="center">Немного machine learner (в основном в сфере NLP) и moneydealer :moneybag: :moneybag: :moneybag:</h3>
+<div align="center">
+  <img src="https://media1.giphy.com/media/p0Zgq6zRrjiak/giphy.gif?cid=ecf05e47d2qzh4w1dbobpho1foq07gg3cxx4gaf50r1exa6w&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="я джифка">
+</div>
+
+<h1 align="left">Привет, я Екатерина =)</h1>
+<h3 align="left">Немного machine learner (в основном в сфере NLP) и moneydealer :moneybag: :moneybag: :moneybag:</h3>
 
 - :satisfied: На данный момент **в процессе получения степени магистра**
 
@@ -17,7 +21,7 @@
 
  - Случайный факт:   **Любимый фильм - "Belle et Sébastien", о том какими должны быть любые взаимоотношения**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Узнать меня получше:</h3>
 <p align="left">
 <a href="https://instagram.com/shadovvmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadovvmi" height="30" width="40" /></a>
 </p>
