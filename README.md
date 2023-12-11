@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/1dNJCkD5YK2G9g5Hfc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/amandaceemedia-cat-cats-crazy-lady-1dNJCkD5YK2G9g5Hfc">via GIPHY</a></p>
+  <image src="https://giphy.com/embed/1dNJCkD5YK2G9g5Hfc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></image><p><a href="https://giphy.com/gifs/amandaceemedia-cat-cats-crazy-lady-1dNJCkD5YK2G9g5Hfc">via GIPHY</a></p>
 </div>
 
 <h1 align="center">Привет, я Екатерина =)</h1>
