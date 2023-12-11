@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="left">Привет, я Екатерина =)</h1>
+<h1 align="left">Привет, я Екатерина <3</h1>
 <h3 align="left">Немного machine learner (в основном в сфере NLP) и moneydealer :moneybag: :moneybag: :moneybag:</h3>
 
 - :satisfied: На данный момент **в процессе получения степени магистра**
@@ -13,7 +13,7 @@
 
 - :smiley_cat: Большинство моих проектов связаны с NLP (sentiment analysis), или создание игр
 
-- :gem: Быстрее всего со мной можно связаться в **telegram @ekaterina_malinovaya**
+- :gem: Быстрее всего со мной можно связаться в **telegram**
 
 <div align="center">
   <img src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
@@ -21,7 +21,7 @@
 
 - Ссылка на резюме с описанием проектов: [https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing](https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing)
 
- - Случайный факт:   **Любимый фильм - "Belle et Sébastien", о том какими должны быть любые взаимоотношения**
+ - Случайный факт:   **Любимый фильм - "Belle et Sébastien"**
 
 <h3 align="left">Узнать меня получше:</h3>
 <p align="left">
