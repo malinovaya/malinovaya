@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/thedrewbarrymoreshow-angry-drew-barrymore-show-Wm507j4sm6OEMTIJzI" width="480" height="385"/>
+  <iframe src="https://giphy.com/embed/1dNJCkD5YK2G9g5Hfc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/amandaceemedia-cat-cats-crazy-lady-1dNJCkD5YK2G9g5Hfc">via GIPHY</a></p>
 </div>
 
 <h1 align="center">Привет, я Екатерина =)</h1>
@@ -9,13 +9,13 @@
 
 - 🤝 Буду рада помощи или советам в **машинном обучении**
 
-- 👨‍💻 Большинство моих проектов связаны с [NLP (sentiment analysis), или создание игр](NLP (sentiment analysis), или создание игр)
+- 👨‍💻 Большинство моих проектов связаны с NLP (sentiment analysis), или создание игр
 
 - 📫 Быстрее всего со мной можно связаться в **telegram**
 
 - Ссылка на резюме с описанием проектов: [https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing](https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing)
 
-- ⚡ Случайный факт: **Любимый фильм-"Belle et Sébastien",о том какими должны быть любые взаимоотношения, лучики добра**
+- ⚡ Случайный факт:   **Любимый фильм-"Belle et Sébastien",о том какими должны быть любые взаимоотношения, лучики добра**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
