@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif" alt="я джифка">
-</div>
 
 <div align="center">
   <img src="https://media1.giphy.com/media/p0Zgq6zRrjiak/giphy.gif?cid=ecf05e47d2qzh4w1dbobpho1foq07gg3cxx4gaf50r1exa6w&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="я джифка">
 </div>
+<div align="center">
+  <img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif](https://giphy.com/gifs/maudit-maudit-the-aristocats-wolfgang-reitherman-13k96DgIYUlMc" alt="я джифка">
+</div>
+
+
 
 <h1 align="left">Привет, я Екатерина =)</h1>
 <h3 align="left">Немного machine learner (в основном в сфере NLP) и moneydealer :moneybag: :moneybag: :moneybag:</h3>
