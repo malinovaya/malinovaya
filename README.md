@@ -5,13 +5,13 @@
 
 
 <h1 align="left">Привет, я Екатерина <3</h1>
-<h3 align="left">Немного machine learner (в основном в сфере NLP) и moneydealer :moneybag: :moneybag: :moneybag:</h3>
+<h3 align="left">Немного machine learner (в основном в сфере NLP и анализе временных рядов)</h3>
 
 - :satisfied: На данный момент **в процессе получения степени магистра**
 
 - :relaxed: Буду рада помощи или советам в **машинном обучении**
 
-- :smiley_cat: Большинство моих проектов связаны с NLP (sentiment analysis), или создание игр
+- :smiley_cat: Большинство моих проектов связаны с NLP (sentiment analysis), или исследованиями в FinTech
 
 - :gem: Быстрее всего со мной можно связаться в **telegram**
 
@@ -21,7 +21,6 @@
 
 - Ссылка на резюме с описанием проектов: [https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing](https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing)
 
- - Случайный факт:   **Любимый фильм - "Belle et Sébastien"**
 
 <h3 align="left">Узнать меня получше:</h3>
 <p align="left">
