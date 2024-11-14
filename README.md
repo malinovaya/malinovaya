@@ -5,13 +5,13 @@
 
 
 <h1 align="left">Привет, я Екатерина <3</h1>
-<h3 align="left">Немного machine learner (в основном в сфере NLP и анализе временных рядов)</h3>
+<h3 align="left">Немного analyst и machine learner (в основном в сфере NLP и анализе временных рядов)</h3>
 
 - :satisfied: На данный момент **в процессе получения степени магистра**
 
-- :relaxed: Буду рада помощи или советам в **машинном обучении**
+- :relaxed: Буду рада помощи или советам
 
-- :smiley_cat: Большинство моих проектов связаны с NLP (sentiment analysis), или исследованиями в FinTech
+- :smiley_cat: Большинство моих проектов связаны с исследованиями в FinTech
 
 - :gem: Быстрее всего со мной можно связаться в **telegram**
 
@@ -19,7 +19,7 @@
   <img src="https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
 </div>
 
-- Ссылка на резюме с описанием проектов: [https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing](https://docs.google.com/document/d/17H454bfWChcvJS2pfOQ5SmDtXv_8UAy1xzMkGiOOi1g/edit?usp=sharing)
+
 
 
 <h3 align="left">Узнать меня получше:</h3>
